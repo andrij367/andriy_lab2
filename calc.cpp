@@ -23,7 +23,7 @@ int main() {
                     break;
 
     case 3:     // code
-
+    result = a * b;
                     break;
 
     case 4:     // code
